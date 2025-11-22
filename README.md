@@ -11,14 +11,14 @@
 
 ## Project Setup
 1. Install Firebase CLI
-  Download from the official installer:
-  ```
-  https://firebase.tools/bin/win/latest
-  ```
-  Log in:
-  ```
+   Download from the official installer:
+   ```
+   https://firebase.tools/bin/win/latest
+   ```
+   Log in:
+   ```
    firebase login
-  ```
+   ```
 
 2. Install FlutterFire CLI
    ```
